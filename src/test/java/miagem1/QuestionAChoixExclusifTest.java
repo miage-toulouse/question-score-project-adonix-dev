@@ -38,7 +38,5 @@ public class QuestionAChoixExclusifTest {
         //then : le score obtenu doit etre egal 0
         assertEquals(0, scoreObtenu, 0.0001);
 
-
-
     }
 }
